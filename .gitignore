@@ -1,0 +1,14 @@
+# Ignore the built executable
+pokedexcli
+
+# Ignore other common Go build artifacts
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+
+# Ignore log files
+*.log
